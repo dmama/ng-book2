@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ng-book2-angular-6-r68-code-samples/http/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/ng-book2-angular-6-r68-code-samples/http/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/ng-book2-angular-6/built-in-directives/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/ng-book2-angular-6/built-in-directives/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
